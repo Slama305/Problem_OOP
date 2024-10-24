@@ -1,0 +1,3 @@
+interface IWorker {
+    void work();
+}
